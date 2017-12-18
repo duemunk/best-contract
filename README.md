@@ -10,7 +10,7 @@ A fair and balanced contract to used for freelancers working on a project basis.
 ## Parties
 
 ### Consultant
-Developmunk (from here on Constulant), registered under the laws of Denmark with corporate registration number DK-34968829 with registedered address:
+Developmunk (from here on Consulant), registered under the laws of Denmark with corporate registration number DK-34968829 with registedered address:
 Skoleholdervej 53, 2.tv.
 2500 Købehavn NV
 DENMARK
@@ -33,28 +33,30 @@ This Agreement commences on the date of Agreement specified above and will remai
 
 3. The Client acknowledges that times scheduled are estimates only of the amount of time required by the Client for the provision of the services under this Agreement, and the Client will be invoiced for the actual time spent by the Consultant in providing the services to the Client.
 
+4. The Consultant is authorised to have access to the proper material to the extent to which this is necessary for the performance of the services under this Agreement.
+
 ## Consultant's Obligations
 
 The Consultant undertakes:
 
-1. to  apply  reasonable  professional  skill,  care  and  expertise  to  the performance  of  the  services  in  accordance  with the  terms  of  this Agreement;
+1. to apply reasonable professional skill, care and expertise to the performance of the services in accordance with the terms of this Agreement,
 
-2. to provide suitably qualified personnel to carry out the services and related tasks (including attendances at meetings and travel);
+2. to provide suitably qualified personnel to carry out the services and related tasks (including attendances at meetings and travel),
 
-3. to  provide  the  services  in  a  timely  and  efficient  manner  and  to  a professional  standard  and  which  will  conform to  the  standards generally  observed  in  the  industry  for  similar  services,  and  to  co-operate with employees and other independent consultants where this is necessary for the performance of the services;
+3. to provide the services in a timely and efficient manner and to a professional standard and which will conform to the standards generally observed in the industry for similar services, and to co-operate with employees and other independent consultants where this is necessary for the performance of the services,
 
-4. to  provide  adequate  office  accommodation,  a  secure  work  space, telephone services and other facilities; and
+4. to provide adequate office accommodation, a secure work space, telephone services and other facilities, and
 
-5. to keep a valid  liability insurance policy.
+5. [optional] to keep a valid liability insurance policy.
 
 
 # Client's Obligations
 
 The Client undertakes:
 
-1. to pay for the services under this Agreement together with associated reasonable expenses under the terms of this Agreement
+1. to pay for the services under this Agreement together with associated reasonable expenses under the terms of this Agreement,
 
-2. to  provide  the  Consultant promptly with all  necessary  information, support and co-operation that may reasonably be required to enable the Consultant to carry out its obligations under this Agreement;
+2. to  provide  the  Consultant promptly with all  necessary  information, support and co-operation that may reasonably be required to enable the Consultant to carry out its obligations under this Agreement,
 
 
 3. to  furnish  the  Consultant  promptly  with  such  information  and documents as the Consultant may reasonably request for the proper performance of its obligations under this Agreement.
